@@ -11,3 +11,5 @@ Temperaturen leses av i seriemonitoren.
 
 En spenningsregulator gir 5v til kontrollkortet fra 12 forsyning på motorshield-et.
 PWM-refekvensen settes til 20 0000 Hz , fra 1000Hz som var default. Før det støyet shield-det sjenerende.
+
+<img src="H:\bilder\eshop\a\a1.jpg" alt="a1" style="zoom:33%;" />
