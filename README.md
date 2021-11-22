@@ -4,11 +4,7 @@ Denne skissen leer tempraturen fra en BMP280, koblet til en ESP8266 via I2C-bus 
 
 
 
-![Regulator](https://skule.sormo.no/bilder/git/1.jpg)
-
-![Mikrokontroller](https://skule.sormo.no/bilder/git/2.jpg)
-
-![motor Shield](https://skule.sormo.no/bilder/git/3jpg)
+![Regulator](https://skule.sormo.no/bilder/git/1.jpg)  ![Mikrokontroller](https://skule.sormo.no/bilder/git/2.jpg)  ![motor Shield](https://skule.sormo.no/bilder/git/3jpg)
 
 
 
